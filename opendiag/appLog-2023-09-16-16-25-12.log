@@ -1,0 +1,15 @@
+AppVersion: 2.17.13
+Android SDK: 31 (12)
+Android device: Xiaomi M2007J3SY
+ECU: ВАЗ: BOSCH MP7.0 E2
+Connect: Bluetooth
+State: connecting 16:25:15,885
+Device: 66:1E:11:0F:71:77
+State: connected 16:25:16,833
+Time:	16:25:16,934
+Send:	AT@1
+Receive: OBDII TO RS232 INTERPRETER
+123
+Time:	16:49:05,427
+Send:	2101
+State: none 16:49:05,499
